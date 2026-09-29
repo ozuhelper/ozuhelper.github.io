@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-09-25T09:36:01.525Z",
+  "fetchedAt": "2026-09-29T10:40:03.066Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -11797,28 +11797,6 @@
               "start": "13:40",
               "end": "15:30",
               "room": "SCOLA.129"
-            }
-          ]
-        },
-        {
-          "id": "D",
-          "instructors": [
-            "ELİF KANDEMİR"
-          ],
-          "capacity": 20,
-          "restrictions": null,
-          "meetings": [
-            {
-              "day": 4,
-              "start": "10:40",
-              "end": "12:30",
-              "room": "SCOLA.230"
-            },
-            {
-              "day": 5,
-              "start": "10:40",
-              "end": "12:30",
-              "room": "SCOLA.230"
             }
           ]
         },
@@ -24646,6 +24624,22 @@
               "day": 1,
               "start": "14:40",
               "end": "16:30",
+              "room": null
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "instructors": [
+            "ÖZGÜR ERTUNÇ"
+          ],
+          "capacity": null,
+          "restrictions": null,
+          "meetings": [
+            {
+              "day": 1,
+              "start": "18:40",
+              "end": "20:30",
               "room": null
             }
           ]
