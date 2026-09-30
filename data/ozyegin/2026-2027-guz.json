@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-09-29T10:40:03.066Z",
+  "fetchedAt": "2026-09-30T10:28:34.521Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -34721,38 +34721,6 @@
               "start": "11:40",
               "end": "14:30",
               "room": null
-            }
-          ]
-        },
-        {
-          "id": "G",
-          "instructors": [
-            "MEHMET ŞAMİL DAYANÇ"
-          ],
-          "capacity": 18,
-          "restrictions": null,
-          "meetings": [
-            {
-              "day": 1,
-              "start": "10:40",
-              "end": "13:30",
-              "room": "SCOLA.128"
-            }
-          ]
-        },
-        {
-          "id": "H",
-          "instructors": [
-            "MEHMET ŞAMİL DAYANÇ"
-          ],
-          "capacity": 18,
-          "restrictions": null,
-          "meetings": [
-            {
-              "day": 4,
-              "start": "13:40",
-              "end": "16:30",
-              "room": "FEAS_AB2.G03"
             }
           ]
         }
