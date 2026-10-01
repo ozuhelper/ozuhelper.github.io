@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-09-30T10:28:34.521Z",
+  "fetchedAt": "2026-10-01T10:56:29.952Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -16,7 +16,7 @@
         {
           "id": "A",
           "instructors": [
-            "ALİNA TARAN"
+            "ALINA TARAN-BOZBAY"
           ],
           "capacity": 70,
           "restrictions": null,
@@ -32,7 +32,7 @@
         {
           "id": "B",
           "instructors": [
-            "ALİNA TARAN"
+            "ALINA TARAN-BOZBAY"
           ],
           "capacity": 70,
           "restrictions": null,
@@ -75,7 +75,7 @@
         {
           "id": "A",
           "instructors": [
-            "ALİNA TARAN"
+            "ALINA TARAN-BOZBAY"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -91,7 +91,7 @@
         {
           "id": "B",
           "instructors": [
-            "ALİNA TARAN"
+            "ALINA TARAN-BOZBAY"
           ],
           "capacity": null,
           "restrictions": null,
@@ -2519,7 +2519,7 @@
         {
           "id": "A",
           "instructors": [
-            "ASLI AĞIRBAŞ"
+            "ASLI AĞIRBAŞ EKŞİOĞLU"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -2942,7 +2942,7 @@
         {
           "id": "A",
           "instructors": [
-            "MARTIN HARRISON"
+            "MARTIN JOHN HARRISON-PRIESTMAN"
           ],
           "capacity": 15,
           "restrictions": null,
@@ -2969,7 +2969,7 @@
         {
           "id": "A",
           "instructors": [
-            "MARTIN HARRISON"
+            "MARTIN JOHN HARRISON-PRIESTMAN"
           ],
           "capacity": 15,
           "restrictions": null,
@@ -2985,7 +2985,7 @@
         {
           "id": "B",
           "instructors": [
-            "MARTIN HARRISON"
+            "MARTIN JOHN HARRISON-PRIESTMAN"
           ],
           "capacity": 15,
           "restrictions": null,
@@ -3012,7 +3012,7 @@
         {
           "id": "A",
           "instructors": [
-            "MARTIN HARRISON"
+            "MARTIN JOHN HARRISON-PRIESTMAN"
           ],
           "capacity": 15,
           "restrictions": null,
@@ -8324,7 +8324,7 @@
         {
           "id": "B",
           "instructors": [
-            "YUSUF KULU"
+            "YUSUF SÜHA KULU"
           ],
           "capacity": 60,
           "restrictions": null,
@@ -8729,7 +8729,7 @@
         {
           "id": "A",
           "instructors": [
-            "YUSUF KULU"
+            "YUSUF SÜHA KULU"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -10923,7 +10923,7 @@
         {
           "id": "J",
           "instructors": [
-            "AYŞE NESLİHAN SABUNCU"
+            "AYŞE NESLİHAN SABUNCU MARCUS"
           ],
           "capacity": null,
           "restrictions": null,
@@ -10967,7 +10967,7 @@
         {
           "id": "L",
           "instructors": [
-            "AYŞE NESLİHAN SABUNCU"
+            "AYŞE NESLİHAN SABUNCU MARCUS"
           ],
           "capacity": 24,
           "restrictions": null,
@@ -11957,7 +11957,7 @@
         {
           "id": "A",
           "instructors": [
-            "AYŞE NESLİHAN SABUNCU"
+            "AYŞE NESLİHAN SABUNCU MARCUS"
           ],
           "capacity": null,
           "restrictions": null,
@@ -12686,7 +12686,7 @@
         {
           "id": "A",
           "instructors": [
-            "ÖZLEM AKIN"
+            "ÖZLEM AKIN PARLAYAN"
           ],
           "capacity": 60,
           "restrictions": null,
@@ -12756,7 +12756,7 @@
         {
           "id": "A",
           "instructors": [
-            "ERRIKOS MELISSINOS"
+            "NICOLAOS ERRIKOS MELISSINOS"
           ],
           "capacity": 40,
           "restrictions": null,
@@ -12799,7 +12799,7 @@
         {
           "id": "A",
           "instructors": [
-            "ÖZLEM AKIN"
+            "ÖZLEM AKIN PARLAYAN"
           ],
           "capacity": 60,
           "restrictions": null,
@@ -12828,7 +12828,7 @@
         {
           "id": "A",
           "instructors": [
-            "ERRIKOS MELISSINOS"
+            "NICOLAOS ERRIKOS MELISSINOS"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -13557,7 +13557,7 @@
         {
           "id": "A",
           "instructors": [
-            "CANDAN TÜRKKAN"
+            "CANDAN TÜRKKAN GHOSH"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -14128,7 +14128,7 @@
         {
           "id": "A",
           "instructors": [
-            "CANDAN TÜRKKAN"
+            "CANDAN TÜRKKAN GHOSH"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -15242,7 +15242,7 @@
         {
           "id": "A",
           "instructors": [
-            "HAMİDE BAĞÇECİ"
+            "HAMİDE BAĞÇECİ DANACI"
           ],
           "capacity": 100,
           "restrictions": null,
@@ -15389,7 +15389,7 @@
         {
           "id": "A",
           "instructors": [
-            "HAMİDE BAĞÇECİ"
+            "HAMİDE BAĞÇECİ DANACI"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -26252,7 +26252,7 @@
         {
           "id": "A",
           "instructors": [
-            "ASLI AĞIRBAŞ"
+            "ASLI AĞIRBAŞ EKŞİOĞLU"
           ],
           "capacity": 14,
           "restrictions": null,
@@ -26584,7 +26584,7 @@
         {
           "id": "A",
           "instructors": [
-            "HANDE TUNÇ"
+            "HANDE TUNÇ YAKAR"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32871,7 +32871,7 @@
         {
           "id": "B",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "MEHMET ZEKİ UĞURLU"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32887,7 +32887,7 @@
         {
           "id": "C",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "SAFİYE AYLİN MUTLU"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32903,7 +32903,7 @@
         {
           "id": "D",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "SENA BİÇİCİ"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32919,7 +32919,7 @@
         {
           "id": "E",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "BORA TOKGÖZ"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32935,7 +32935,7 @@
         {
           "id": "F",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "ASLI YALÇIN"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32967,7 +32967,7 @@
         {
           "id": "H",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "AHMET ESEN"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32983,7 +32983,7 @@
         {
           "id": "I",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "LALE ZEYNEP ATAT"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32999,7 +32999,7 @@
         {
           "id": "J",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "KEREM AYKANAT"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -33015,7 +33015,7 @@
         {
           "id": "K",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "OĞUZ TOLGA EGEMEN"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -33031,7 +33031,7 @@
         {
           "id": "L",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "TALİP KEREM KOÇKESEN"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -33047,7 +33047,7 @@
         {
           "id": "M",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "EMRE SEFER"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -33063,7 +33063,7 @@
         {
           "id": "N",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "YAPRAK YEŞİLADA YALÇIN"
           ],
           "capacity": null,
           "restrictions": null,
@@ -33528,7 +33528,7 @@
         {
           "id": "B",
           "instructors": [
-            "EGEM ATİK"
+            "EGEM ATİK ÇETİN"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33544,7 +33544,7 @@
         {
           "id": "C",
           "instructors": [
-            "EGEM ATİK"
+            "EGEM ATİK ÇETİN"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33576,7 +33576,7 @@
         {
           "id": "E",
           "instructors": [
-            "EZGİ HAMZAÇEBİ"
+            "EZGİ HAMZAÇEBİ AYTAN"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33592,7 +33592,7 @@
         {
           "id": "F",
           "instructors": [
-            "YAĞMUR YILDIRIMAY"
+            "YAĞMUR YILDIRIMAY BAYRAKÇI"
           ],
           "capacity": 30,
           "restrictions": null,
@@ -33822,7 +33822,7 @@
         {
           "id": "G",
           "instructors": [
-            "EZGİ HAMZAÇEBİ"
+            "EZGİ HAMZAÇEBİ AYTAN"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33838,7 +33838,7 @@
         {
           "id": "H",
           "instructors": [
-            "EZGİ HAMZAÇEBİ"
+            "EZGİ HAMZAÇEBİ AYTAN"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33854,7 +33854,7 @@
         {
           "id": "I",
           "instructors": [
-            "EZGİ HAMZAÇEBİ"
+            "EZGİ HAMZAÇEBİ AYTAN"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33870,7 +33870,7 @@
         {
           "id": "K",
           "instructors": [
-            "YAĞMUR YILDIRIMAY"
+            "YAĞMUR YILDIRIMAY BAYRAKÇI"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -33886,7 +33886,7 @@
         {
           "id": "L",
           "instructors": [
-            "YAĞMUR YILDIRIMAY"
+            "YAĞMUR YILDIRIMAY BAYRAKÇI"
           ],
           "capacity": 25,
           "restrictions": null,
@@ -34089,7 +34089,7 @@
         {
           "id": "E",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34137,7 +34137,7 @@
         {
           "id": "H",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34201,7 +34201,7 @@
         {
           "id": "L",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34249,7 +34249,7 @@
         {
           "id": "O",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34281,7 +34281,7 @@
         {
           "id": "PA",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34297,7 +34297,7 @@
         {
           "id": "PB",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34313,7 +34313,7 @@
         {
           "id": "PC",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34329,7 +34329,7 @@
         {
           "id": "PD",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34345,7 +34345,7 @@
         {
           "id": "PE",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
@@ -34361,7 +34361,7 @@
         {
           "id": "PF",
           "instructors": [
-            "NURKAN DİKMEN"
+            "NURKAN DİKMEN BAŞARAN"
           ],
           "capacity": 50,
           "restrictions": null,
