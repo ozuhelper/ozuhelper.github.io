@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-10-01T10:56:29.952Z",
+  "fetchedAt": "2026-10-02T10:29:43.145Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -32855,7 +32855,7 @@
         {
           "id": "A",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "EDA OKTAY"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -32951,7 +32951,7 @@
         {
           "id": "G",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "SİNEM BOZOKLAR"
           ],
           "capacity": 20,
           "restrictions": null,
