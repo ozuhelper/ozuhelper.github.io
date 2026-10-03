@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-10-02T10:29:43.145Z",
+  "fetchedAt": "2026-10-03T09:51:19.470Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -16244,7 +16244,7 @@
         {
           "id": "A",
           "instructors": [
-            "SELMİN CANSU DEMİR YILDIZ"
+            "SELMİN CANSU DEMİR"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -16413,7 +16413,7 @@
         {
           "id": "A",
           "instructors": [
-            "SELMİN CANSU DEMİR YILDIZ"
+            "SELMİN CANSU DEMİR"
           ],
           "capacity": 20,
           "restrictions": null,
@@ -34695,7 +34695,7 @@
         {
           "id": "C",
           "instructors": [
-            "İLAYDA ENGİN UYSAL"
+            "MEHMET ŞAMİL DAYANÇ"
           ],
           "capacity": 18,
           "restrictions": null,
