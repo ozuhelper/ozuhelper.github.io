@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-10-03T09:51:19.470Z",
+  "fetchedAt": "2026-10-06T11:15:41.287Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -30401,7 +30401,7 @@
     {
       "code": "PLT 307",
       "slug": "plt-307",
-      "title": "Uçuş İşletme Usulleri (ATPL)",
+      "title": "Uçuş Planlama ve İzleme (ATPL)",
       "ects": 2,
       "localCredits": null,
       "prerequisites": "PLT 202, PLT 204 ve PLT 206",
@@ -33079,7 +33079,7 @@
         {
           "id": "O",
           "instructors": [
-            "PELİN ATAHAN DEMİRCİLER"
+            "BAŞAK EREL"
           ],
           "capacity": null,
           "restrictions": null,
