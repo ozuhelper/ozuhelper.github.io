@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-10-06T11:15:41.287Z",
+  "fetchedAt": "2026-10-09T11:18:52.070Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -21005,7 +21005,7 @@
         {
           "id": "A",
           "instructors": [
-            "SEDA DÖNMEZ"
+            "SELİN ÜST"
           ],
           "capacity": 14,
           "restrictions": null,
