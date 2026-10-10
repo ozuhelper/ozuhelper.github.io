@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-10-09T11:18:52.070Z",
+  "fetchedAt": "2026-10-10T10:35:56.549Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -10193,6 +10193,33 @@
           "id": "A",
           "instructors": [
             "MOHAMMED ELAMASSIE"
+          ],
+          "capacity": null,
+          "restrictions": null,
+          "meetings": [
+            {
+              "day": 1,
+              "start": "12:40",
+              "end": "15:30",
+              "room": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "EEC 398",
+      "slug": "eec-398",
+      "title": "Sürdürülebilir Elektronik ve Döngüsel Ekonomi",
+      "ects": null,
+      "localCredits": null,
+      "prerequisites": "",
+      "corequisites": [],
+      "sections": [
+        {
+          "id": "A",
+          "instructors": [
+            "İSMAİL AKTÜRK"
           ],
           "capacity": null,
           "restrictions": null,
