@@ -2,7 +2,7 @@
   "schoolId": "ozyegin",
   "termId": "2026-2027-guz",
   "termLabel": "2026 - 2027 Güz",
-  "fetchedAt": "2026-10-10T10:35:56.549Z",
+  "fetchedAt": "2026-10-20T09:24:26.711Z",
   "courses": [
     {
       "code": "ACCT 201",
@@ -15236,7 +15236,7 @@
         {
           "id": "A",
           "instructors": [
-            "DİDEM KÖSE"
+            "HAMİDE BAĞÇECİ DANACI"
           ],
           "capacity": 100,
           "restrictions": null,
